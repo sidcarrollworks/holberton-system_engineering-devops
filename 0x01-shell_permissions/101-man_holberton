@@ -2,7 +2,7 @@
 
 .SH NAME
 .B holberton
-= become a full-stack software engineer.
+- become a full-stack software engineer.
 
 .SH SYNOPSIS
 holberton [STUDENTNAME]
@@ -21,4 +21,4 @@ does not take any options. However, you can supply studentname.
 No known bugs.
 
 .SH AUTHOR
-Julien Barbier, Sylvain Kalache, Sophie Barbier, Guillaume Salva, Kris Bredemeier, Julien Cyr, Alex Gautier and all Holberton Mentors
+Julien Barbier, Sylvain Kalache, Sophie Barbier, Guillaume Salva, Kris Bredemeier, Julien Cyr, Alex Gautier and all Holberton mentors
