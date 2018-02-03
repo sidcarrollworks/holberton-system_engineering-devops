@@ -3,8 +3,6 @@
 
 if [ -e holbertonschool ]; then
 	echo "holbertonschool file exists"
-else
-	echo "holbertonschool file does not exist"
 	if [ -s holbertonschool ]; then
 		echo "holbertonschool file is not empty"
 	else
@@ -13,4 +11,6 @@ else
 	if [ -f holbertonschool ]; then
 		echo "holbertonschool is a regular file"
 	fi
+else
+	echo "holbertonschool file does not exist"
 fi
