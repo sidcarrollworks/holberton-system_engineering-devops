@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # prints for infinity, when recieve sigterm print im am invicible
 
-trap "I am invincible!!!" SIGTERM
+trap 'echo "I am invincible!!!"' SIGTERM
 
 while true; do
 	echo "To infinity and beyond"
