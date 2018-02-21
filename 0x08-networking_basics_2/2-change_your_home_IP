@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 # change the ip of local host
 
 cp /etc/hosts ~/hosts.new
