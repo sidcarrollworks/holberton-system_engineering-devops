@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+#script that logs in to ssh server
+ssh ubuntu@54.175.102.162

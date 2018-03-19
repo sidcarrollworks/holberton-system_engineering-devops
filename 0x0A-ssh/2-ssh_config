@@ -1,0 +1,2 @@
+HOSTS *
+	IdenityFile ~/.ssh/holberton
