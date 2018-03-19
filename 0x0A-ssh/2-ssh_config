@@ -1,2 +1,3 @@
-HOSTS *
+Hosts *
 	IdenityFile ~/.ssh/holberton
+	BatchMode yes
