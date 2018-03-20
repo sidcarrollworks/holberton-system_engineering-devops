@@ -1,3 +1,5 @@
 #!/usr/bin/env bash
 # configure nginx
+sudo apt-get -y install nginx
 echo 'Holberton School' > /usr/share/nginx/html/index.html
+sudo service nginx restart
