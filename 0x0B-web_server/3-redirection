@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 # redirect
 
+sudo apt-get -y install nginx
 new="server {
         listen 80 default_server;
         listen [::]:80 default_server ipv6only=on;
@@ -24,3 +25,4 @@ new="server {
 		}
 }"
 "$new" > /etc/nginx/sites-available/default
+sudo service nginx restart
