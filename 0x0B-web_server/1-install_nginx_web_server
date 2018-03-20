@@ -2,5 +2,5 @@
 # configure nginx
 sudo apt-get -y install nginx
 sed -i "0,/localhost;/s/localhost;/54.175.102.162;\n/" /etc/nginx/sites-available/default
-echo “Holberton School” > /usr/share/nginx/html/index.html
+echo "Holberton School" > /usr/share/nginx/html/index.html
 sudo service nginx restart
