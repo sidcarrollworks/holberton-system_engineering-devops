@@ -1,3 +1,7 @@
 #!/usr/bin/env bash
 # debug server
+<<<<<<< HEAD
 service apache2 start
+=======
+sudo service apache2 restart
+>>>>>>> 7e96d8c9763f3863d54bce87481664d9e3b4ba7c
