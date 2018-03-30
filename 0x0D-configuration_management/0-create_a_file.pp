@@ -1,5 +1,5 @@
+#creates a file
 file { 'holberton':
-  #creates a file
   path    => '/tmp/holberton',
   owner   => 'www-data',
   group   => 'www-data',
