@@ -12,11 +12,11 @@ if __name__ == "__main__":
     for user in users:
         todos = requests.get(url + "todos?userId={}".format(user['id'])).json()
         allTasks[user['id']] = [{
-                "username": user['name'],
-                "task": todo['title'],
-                "completed": todo['completed']
+            "username": user['name'],
+            "task": todo['title'],
+            "completed": todo['completed']
             } for todo in todos
-        ]
+            ]
 
     with open("todo_all_employees.json", 'w') as f:
         json.dump(allTasks, f)

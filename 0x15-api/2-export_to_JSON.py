@@ -15,9 +15,9 @@ if __name__ == "__main__":
     with open("{}.json".format(userId), 'w+') as f:
         json.dump({
             userId: [{
-                    "task": todo['title'],
-                    "completed": todo['completed'],
-                    "username": user['name']
+                "task": todo['title'],
+                "completed": todo['completed'],
+                "username": user['name']
                 } for todo in todos
-            ]
-        }, f)
+                ]
+            }, f)
