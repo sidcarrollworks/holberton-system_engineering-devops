@@ -1,7 +1,7 @@
 # Issue Summary
 The catastrophe took place between 9:00 AM to 10:30 AM MST on June 30th, 2017. The morning had been going well in the shop but one thing seemed to have everyone in the storefront on edge. For a solid hour there had been no music playing in the shop. This had resulted in a 70% decrease in customer satisfaction as well as a 90% drop in sales.
 
-#Timeline
+# Timeline
 * 9:00 AM - The storefront opens like any other day.
 * 9:15 AM - Fifteen minutes since opening and only one customer has wandered in. Shortly after being enveloped in the silence slips out feeling awkward and ashamed.
 * 9:20 AM - I come out into the storefront to take inventory and feel the same feeling creeping up on me as the last customer. I am unable to pinpoint why this is happening at this moment.
@@ -14,11 +14,11 @@ The catastrophe took place between 9:00 AM to 10:30 AM MST on June 30th, 2017. T
 * 10:24 AM - The store front in now poppin. People are dancing in the shop while they look at shirts and Sandy is boogying away while printing.
 * 10:30 AM - Everything is back to normal.
 
-#Root Cause
+# Root Cause
 The root cause of this issue was that I had failed to remeber that Claire had Tuesdays off. Claire usually arrives to work early to secure the music.
 
-#Resolution
+# Resolution
 Due to my innate deductive reasoning skills I figured out the problem and saved the store from total annihilation.
 
-#Preventive Measures
+# Preventive Measures
 After the incident I made sure everyone knew how important the responsibilty of playing music in the shop is. The responisbility is not only Claire's
